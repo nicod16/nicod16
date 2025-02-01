@@ -1,16 +1,21 @@
-## Hi there 👋
+# Bienvenue sur mon GitHub ! 👋
 
-<!--
-**nicod16/nicod16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Qui suis-je ?  
+Salut ! Je suis **Nicolas**, un passionné de développement et de technologie. J’aime explorer de nouvelles technologies, créer des projets innovants et partager mes connaissances avec la communauté.
 
-Here are some ideas to get you started:
+## Ce que vous trouverez ici  
+📌 **Projets de développement** – Applications web, scripts et outils utiles.  
+🔍 **Expérimentations** – Tests de nouvelles technologies et frameworks.  
+📚 **Ressources** – Tutoriels et documents utiles.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes technologies préférées  
+- 🖥️ **Langages** : Java, JavaScript, HTML/CSS  
+- 🔧 **Frameworks & Outils** : React, Node.js, Git  
+- 🛠️ **Autres** : Docker, Linux, API REST  
+
+## Me contacter  
+📧 **Email** : [ton email ici]  
+🌐 **Portfolio** : [ton site web ici]  
+🐦 **Twitter** : [ton pseudo Twitter ici]  
+
+🚀 N’hésitez pas à explorer mes projets et à contribuer !  
