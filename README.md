@@ -17,6 +17,6 @@ Salut ! Je suis **Nicolas**, un passionné de développement et de technologie. 
 🌐 **Portfolio** : [ton site web ici]  
 🐦 **Twitter** : [ton pseudo Twitter ici]  
 
-## Mes Projets
+## Quelsue State
 ![image](https://github.com/user-attachments/assets/e8bb06eb-3898-4746-9fab-354ddc943381)
 
