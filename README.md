@@ -11,11 +11,11 @@ Salut ! Je suis **Nicolas**, un passionné de développement et de technologie. 
 ## Mes technologies préférées  
 - 🖥️ **Langages** : Java, JavaScript, HTML/CSS  
 - 🔧 **Frameworks & Outils** : React, Node.js, Git  
-- 🛠️ **Autres** : Docker, Linux, API REST  
 
 ## Me contacter  
 📧 **Email** : [ton email ici]  
 🌐 **Portfolio** : [ton site web ici]  
 🐦 **Twitter** : [ton pseudo Twitter ici]  
 
-🚀 N’hésitez pas à explorer mes projets et à contribuer !  
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
